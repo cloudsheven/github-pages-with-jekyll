@@ -1,0 +1,11 @@
+# Primo post 
+Questo è il mio primo post del blog.
+
+*italic con gli asterischi*
+
+# Secondo titolo
+senza aggiunte.
+
+*italic*
+
+[link]
