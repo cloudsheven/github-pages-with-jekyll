@@ -1,3 +1,5 @@
-# Welcome to my blog
+# A. Luzzi blog
 
-I'm glad you are here. I plan to talk about ...
+Benvenuto nel mio blog. Sono un uomo di 34 anni che sta cercando di sviluppare le sue capacità da programmatore.
+
+Sto studiando con l'aiuto dell'istituto volta il linguaggio Java e spero di poter essere utile a questa community.
